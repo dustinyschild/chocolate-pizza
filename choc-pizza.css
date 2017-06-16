@@ -1,1 +1,57 @@
-
+body{
+  height:1970px;
+  width:1240px;
+}
+header{
+  height: 100px;
+  max width: 1240;
+  width: 100%;
+  margin
+}
+.logo{
+  float:left;
+  width:45px;
+}
+.logoText{
+  width:60%;
+  float: left;
+  display: inline-block;
+}
+.logo h2{
+  margin:auto;
+  font-family: 'Yellowtail', cursive;
+}
+.logo p{
+  margin: auto;
+  font-family: 'Ubuntu Mono', monospace;
+}
+.social-links{
+  float: right;
+  width:30%;
+  align-items: right;
+}
+.social-links li{
+  align: right;
+}
+li{
+  text-decoration: none;
+  display:inline-block;
+}
+.title-wrap{
+  height:200px;
+  width:100%;
+}
+.title{
+  float: left;
+}
+.print-button{
+  float: right;
+}
+.hero-image{
+  width:100%;
+  margin: auto;
+}
+.hero-image img{
+  width: 100%;
+  margin: auto;
+}
