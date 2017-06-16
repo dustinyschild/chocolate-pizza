@@ -105,6 +105,11 @@ input{
   float: right;
   display: block;
 }
+button{
+  background-color: red;
+  color: white;
+  font-family: 'Ubuntu Mono', monospace;
+}
 footer{
   display: block;
 }
